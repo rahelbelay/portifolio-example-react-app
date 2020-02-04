@@ -8,7 +8,7 @@ import Nav from './Nav';
 
 const content = `Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente quaerat voluptas numquam ut, corrupti doloribus perspiciatis nostrum. Facilis adipisci molestias commodi veniam, suscipit deleniti. Temporibus delectus ab molestiae laborum totam?`
 
-const title = `Amazing Web Developererer`
+const title = `Amazing Web Developer`
 
 const linkNames = [
   'Home',

@@ -6,8 +6,11 @@ class Nav extends React.Component {
         this.state = {
             isOpen: false
         };
+        // this._toggleMenu = this._toggleMenu.bind(this);
 
     }
+
+
 
     render() {
         return (
